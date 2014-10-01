@@ -2,6 +2,8 @@ body {
     font-family: Helvetica, sans-serif;
     font-size: 18px;
     background-color: #E3E3E3
+    break-word;
+   	width: 600px;
 }
 img {
     max-width: 600px;
